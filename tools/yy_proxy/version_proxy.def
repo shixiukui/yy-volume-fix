@@ -1,0 +1,10 @@
+LIBRARY version
+EXPORTS
+ GetFileVersionInfoSizeA=_ProxyGetFileVersionInfoSizeA@8
+ GetFileVersionInfoSizeW=_ProxyGetFileVersionInfoSizeW@8
+ GetFileVersionInfoA=_ProxyGetFileVersionInfoA@16
+ GetFileVersionInfoW=_ProxyGetFileVersionInfoW@16
+ VerQueryValueA=_ProxyVerQueryValueA@16
+ VerQueryValueW=_ProxyVerQueryValueW@16
+ YYVolumePatchStatus=_YYVolumePatchStatus@0
+ YYVolumePatchRestores=_YYVolumePatchRestores@0

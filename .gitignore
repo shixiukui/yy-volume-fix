@@ -1,0 +1,9 @@
+/out/
+/.release-build/
+/dist/
+*.dll
+*.obj
+*.exp
+*.lib
+*.pdb
+YYVolume*.bin
